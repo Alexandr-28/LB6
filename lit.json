@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "60400904455f2f664ac7e99b"
+  },
+  "name": "Die Welt",
+  "year": 2021,
+  "ISBN": 534723578,
+  "pages": 37,
+  "type": "newspaper",
+  "publisher": "Welt(A)"
+},{
+  "_id": {
+    "$oid": "60400948455f2f664ac7e99c"
+  },
+  "name": "Forbes",
+  "year": 2021,
+  "ISBN": 92948652,
+  "pages": 54,
+  "type": "journal",
+  "publisher": "Forbes(A)"
+},{
+  "_id": {
+    "$oid": "604009c8455f2f664ac7e99d"
+  },
+  "name": "География 10",
+  "year": 2018,
+  "ISBN": 91258174851,
+  "pages": 304,
+  "type": "book",
+  "author": [
+    "Пестушко",
+    "Уварова",
+    "Довгань"
+  ],
+  "publisher": "Генеза"
+},{
+  "_id": {
+    "$oid": "60400b3866534835d15049f3"
+  },
+  "name": "Киевский вестник",
+  "year": 2015,
+  "ISBN": 5912849134,
+  "pages": 31,
+  "type": "newspaper",
+  "publisher": "Киевский вестник(А)"
+},{
+  "_id": {
+    "$oid": "60400ba266534835d15049f4"
+  },
+  "name": "Оно",
+  "year": 1986,
+  "ISBN": 91602957051,
+  "pages": 1248,
+  "type": "book",
+  "author": "Стивен Кинг",
+  "publisher": "Viking"
+},{
+  "_id": {
+    "$oid": "60400be566534835d15049f5"
+  },
+  "name": "Сияние",
+  "year": 1980,
+  "ISBN": 91254819589145,
+  "pages": 640,
+  "type": "book",
+  "author": "Стивен Кинг",
+  "publisher": "Neoclassic"
+},{
+  "_id": {
+    "$oid": "60400c3666534835d15049f6"
+  },
+  "name": "The New Your Times",
+  "year": 2021,
+  "ISBN": 4263267325,
+  "pages": 35,
+  "type": "newspaper",
+  "publisher": "The New York Times(A)"
+},{
+  "_id": {
+    "$oid": "60400cb366534835d15049f7"
+  },
+  "name": "Старик и море",
+  "year": 1952,
+  "ISBN": 9421597691647,
+  "pages": 127,
+  "type": "book",
+  "author": "Эрнест Хемингуэй",
+  "publisher": "Neoclassic"
+},{
+  "_id": {
+    "$oid": "60400d1266534835d15049f8"
+  },
+  "name": "Война и мир",
+  "year": 1867,
+  "ISBN": 90525995014155,
+  "pages": 1504,
+  "type": "book",
+  "author": "Лев Толстой",
+  "publisher": "Азбука"
+},{
+  "_id": {
+    "$oid": "60400f0a85a2a7c01a98bad4"
+  },
+  "name": "Гарри Поттер",
+  "year": 2005,
+  "ISBN": 941249759124,
+  "pages": 672,
+  "type": "book",
+  "author": "Джоан Роулинг",
+  "publisher": "Махаон"
+}]
